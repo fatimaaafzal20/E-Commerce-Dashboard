@@ -1,5 +1,3 @@
-# E-Commerce-Dashboard
-# This repository stores my personal project regarding e-commerce business insights.
 1. Project Title:
 E-Commerce Customer Behaviour Dashboard
 
